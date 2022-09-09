@@ -1,0 +1,60 @@
+*{
+    background-image: url('../IMAGES/123.jpg');
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment:fixed ;
+    background-size: cover;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size:large;
+    background: rgb(8, 74, 41);
+    margin-left: 800px;
+    margin-right: 800px;
+}
+h2{
+    margin-left: 650px;
+    margin-right: 650px;
+    font-size: medium;
+    background: rgb(36, 138, 78);
+}
+h3{
+    font-size:large;
+    background: rgb(8, 74, 41);
+    margin-left: 800px;
+    margin-right: 800px;
+}
+label{
+    font-size: medium;
+    background: rgb(36, 138, 78);
+}
+.a{
+    background: rgb(8, 74, 41);
+}
+fieldset{
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    background: rgb(22, 126, 135);
+    margin-left: 800px;
+    margin-right: 800px;
+}
+input{
+    background: rgb(36, 138, 78);
+}
+footer,h6,h5,[href="acercade.html"] {
+    font-size:x-small;
+    background: rgb(83, 80, 80);
+}
+[href="menu.html"],[href="singup.html"]{
+    background: rgb(76, 154, 16);
+}
+[href="quejas.html"],[href="indeex.html"] {
+    background: rgb(82, 126, 28);
+}
+nav{
+    background: rgb(83, 80, 80);
+}
